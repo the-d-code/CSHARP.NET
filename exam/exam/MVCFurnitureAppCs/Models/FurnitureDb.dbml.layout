@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="FurnitureDb">
+  <DataContextMoniker Name="/FurnitureDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d4749ce2-5163-451b-8cb8-7226c5935f1a" absoluteBounds="0.625, 1.75, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/FurnitureDbDataContext/Cat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c064117-41c4-4b94-9217-d149220973df" absoluteBounds="0.64000000000000012, 2.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6506f43c-4d01-4fd7-beef-d6c0d786d40a" absoluteBounds="4.5, 3.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/FurnitureDbDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10b6cab8-9dd3-4bbf-88c8-f18fd2eba7ab" absoluteBounds="4.515, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.625 : 2.94399251302083); (1.625 : 4.63544840494792); (4.5 : 4.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/FurnitureDbDataContext/Cat/Cat_Product" />
+      <nodes>
+        <classShapeMoniker Id="d4749ce2-5163-451b-8cb8-7226c5935f1a" />
+        <classShapeMoniker Id="6506f43c-4d01-4fd7-beef-d6c0d786d40a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

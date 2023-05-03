@@ -1,0 +1,8 @@
+D:\.NET projects\indexerstring\bin\Debug\indexerstring.exe.config
+D:\.NET projects\indexerstring\bin\Debug\indexerstring.exe
+D:\.NET projects\indexerstring\bin\Debug\indexerstring.pdb
+D:\.NET projects\indexerstring\obj\Debug\indexerstring.csproj.AssemblyReference.cache
+D:\.NET projects\indexerstring\obj\Debug\indexerstring.csproj.SuggestedBindingRedirects.cache
+D:\.NET projects\indexerstring\obj\Debug\indexerstring.csproj.CoreCompileInputs.cache
+D:\.NET projects\indexerstring\obj\Debug\indexerstring.exe
+D:\.NET projects\indexerstring\obj\Debug\indexerstring.pdb

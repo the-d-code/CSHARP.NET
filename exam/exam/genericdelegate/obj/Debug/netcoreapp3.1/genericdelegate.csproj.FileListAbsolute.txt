@@ -1,0 +1,14 @@
+D:\.NET projects\genericdelegate\bin\Debug\netcoreapp3.1\genericdelegate.exe
+D:\.NET projects\genericdelegate\bin\Debug\netcoreapp3.1\genericdelegate.deps.json
+D:\.NET projects\genericdelegate\bin\Debug\netcoreapp3.1\genericdelegate.runtimeconfig.json
+D:\.NET projects\genericdelegate\bin\Debug\netcoreapp3.1\genericdelegate.runtimeconfig.dev.json
+D:\.NET projects\genericdelegate\bin\Debug\netcoreapp3.1\genericdelegate.dll
+D:\.NET projects\genericdelegate\bin\Debug\netcoreapp3.1\genericdelegate.pdb
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.csproj.AssemblyReference.cache
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.AssemblyInfoInputs.cache
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.AssemblyInfo.cs
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.csproj.CoreCompileInputs.cache
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.dll
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.pdb
+D:\.NET projects\genericdelegate\obj\Debug\netcoreapp3.1\genericdelegate.genruntimeconfig.cache

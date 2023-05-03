@@ -1,0 +1,14 @@
+D:\.NET projects\intrest\bin\Debug\netcoreapp3.1\intrest.exe
+D:\.NET projects\intrest\bin\Debug\netcoreapp3.1\intrest.deps.json
+D:\.NET projects\intrest\bin\Debug\netcoreapp3.1\intrest.runtimeconfig.json
+D:\.NET projects\intrest\bin\Debug\netcoreapp3.1\intrest.runtimeconfig.dev.json
+D:\.NET projects\intrest\bin\Debug\netcoreapp3.1\intrest.dll
+D:\.NET projects\intrest\bin\Debug\netcoreapp3.1\intrest.pdb
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.csproj.AssemblyReference.cache
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.AssemblyInfoInputs.cache
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.AssemblyInfo.cs
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.csproj.CoreCompileInputs.cache
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.dll
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.pdb
+D:\.NET projects\intrest\obj\Debug\netcoreapp3.1\intrest.genruntimeconfig.cache

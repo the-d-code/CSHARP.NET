@@ -1,0 +1,8 @@
+D:\.NET projects\matrix_manipulaton\obj\Debug\matrix_manipulaton.csproj.AssemblyReference.cache
+D:\.NET projects\matrix_manipulaton\obj\Debug\matrix_manipulaton.csproj.SuggestedBindingRedirects.cache
+D:\.NET projects\matrix_manipulaton\obj\Debug\matrix_manipulaton.csproj.CoreCompileInputs.cache
+D:\.NET projects\matrix_manipulaton\bin\Debug\matrix_manipulaton.exe.config
+D:\.NET projects\matrix_manipulaton\bin\Debug\matrix_manipulaton.exe
+D:\.NET projects\matrix_manipulaton\bin\Debug\matrix_manipulaton.pdb
+D:\.NET projects\matrix_manipulaton\obj\Debug\matrix_manipulaton.exe
+D:\.NET projects\matrix_manipulaton\obj\Debug\matrix_manipulaton.pdb

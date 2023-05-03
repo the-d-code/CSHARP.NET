@@ -1,0 +1,8 @@
+D:\.NET projects\inheritenceoverride\bin\Debug\inheritenceoverride.exe.config
+D:\.NET projects\inheritenceoverride\bin\Debug\inheritenceoverride.exe
+D:\.NET projects\inheritenceoverride\bin\Debug\inheritenceoverride.pdb
+D:\.NET projects\inheritenceoverride\obj\Debug\inheritenceoverride.csproj.AssemblyReference.cache
+D:\.NET projects\inheritenceoverride\obj\Debug\inheritenceoverride.csproj.SuggestedBindingRedirects.cache
+D:\.NET projects\inheritenceoverride\obj\Debug\inheritenceoverride.csproj.CoreCompileInputs.cache
+D:\.NET projects\inheritenceoverride\obj\Debug\inheritenceoverride.exe
+D:\.NET projects\inheritenceoverride\obj\Debug\inheritenceoverride.pdb

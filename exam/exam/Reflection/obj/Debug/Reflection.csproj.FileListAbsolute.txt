@@ -1,0 +1,8 @@
+D:\.NET projects\Reflection\bin\Debug\Reflection.exe.config
+D:\.NET projects\Reflection\bin\Debug\Reflection.exe
+D:\.NET projects\Reflection\bin\Debug\Reflection.pdb
+D:\.NET projects\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\.NET projects\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+D:\.NET projects\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\.NET projects\Reflection\obj\Debug\Reflection.exe
+D:\.NET projects\Reflection\obj\Debug\Reflection.pdb

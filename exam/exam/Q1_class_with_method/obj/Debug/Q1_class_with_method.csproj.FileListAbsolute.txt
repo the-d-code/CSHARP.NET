@@ -1,0 +1,8 @@
+D:\.NET projects\Q1_class_with_method\bin\Debug\Q1_class_with_method.exe.config
+D:\.NET projects\Q1_class_with_method\bin\Debug\Q1_class_with_method.exe
+D:\.NET projects\Q1_class_with_method\bin\Debug\Q1_class_with_method.pdb
+D:\.NET projects\Q1_class_with_method\obj\Debug\Q1_class_with_method.csproj.AssemblyReference.cache
+D:\.NET projects\Q1_class_with_method\obj\Debug\Q1_class_with_method.csproj.SuggestedBindingRedirects.cache
+D:\.NET projects\Q1_class_with_method\obj\Debug\Q1_class_with_method.csproj.CoreCompileInputs.cache
+D:\.NET projects\Q1_class_with_method\obj\Debug\Q1_class_with_method.exe
+D:\.NET projects\Q1_class_with_method\obj\Debug\Q1_class_with_method.pdb

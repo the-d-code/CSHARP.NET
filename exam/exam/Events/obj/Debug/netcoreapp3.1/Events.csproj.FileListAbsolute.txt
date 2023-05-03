@@ -1,0 +1,14 @@
+D:\.NET projects\Events\bin\Debug\netcoreapp3.1\Events.exe
+D:\.NET projects\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+D:\.NET projects\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+D:\.NET projects\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+D:\.NET projects\Events\bin\Debug\netcoreapp3.1\Events.dll
+D:\.NET projects\Events\bin\Debug\netcoreapp3.1\Events.pdb
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.csproj.AssemblyReference.cache
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.dll
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.pdb
+D:\.NET projects\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SchoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="Cid" />
+    </Key>
+    <Property Name="Cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cname" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Schl">
+    <Key>
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Sid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Sname" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Stid" />
+    </Key>
+    <Property Name="Stid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Stname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cid" Type="int" Nullable="false" />
+    <Property Name="Sid" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Student_Class">
+    <End Role="Class" Type="Self.Class" Multiplicity="1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Class">
+        <PropertyRef Name="Cid" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="Cid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Schl">
+    <End Role="Schl" Type="Self.Schl" Multiplicity="1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Schl">
+        <PropertyRef Name="Sid" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="Sid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SchoolModelStoreContainer">
+    <EntitySet Name="Class" EntityType="Self.Class" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Schl" EntityType="Self.Schl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Student_Class" Association="Self.FK_Student_Class">
+      <End Role="Class" EntitySet="Class" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Schl" Association="Self.FK_Student_Schl">
+      <End Role="Schl" EntitySet="Schl" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

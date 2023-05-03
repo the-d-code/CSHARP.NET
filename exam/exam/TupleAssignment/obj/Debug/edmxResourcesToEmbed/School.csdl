@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SchoolModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="Cid" />
+    </Key>
+    <Property Name="Cid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Student_Class" FromRole="Class" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Schl">
+    <Key>
+      <PropertyRef Name="Sid" />
+    </Key>
+    <Property Name="Sid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Sname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Student_Schl" FromRole="Schl" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Stid" />
+    </Key>
+    <Property Name="Stid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Stname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Cid" Type="Int32" Nullable="false" />
+    <Property Name="Sid" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Class" Relationship="Self.FK_Student_Class" FromRole="Student" ToRole="Class" />
+    <NavigationProperty Name="Schl" Relationship="Self.FK_Student_Schl" FromRole="Student" ToRole="Schl" />
+  </EntityType>
+  <Association Name="FK_Student_Class">
+    <End Role="Class" Type="Self.Class" Multiplicity="1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Class">
+        <PropertyRef Name="Cid" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="Cid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Schl">
+    <End Role="Schl" Type="Self.Schl" Multiplicity="1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Schl">
+        <PropertyRef Name="Sid" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="Sid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SchoolEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Classes" EntityType="Self.Class" />
+    <EntitySet Name="Schls" EntityType="Self.Schl" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <AssociationSet Name="FK_Student_Class" Association="Self.FK_Student_Class">
+      <End Role="Class" EntitySet="Classes" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Schl" Association="Self.FK_Student_Schl">
+      <End Role="Schl" EntitySet="Schls" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

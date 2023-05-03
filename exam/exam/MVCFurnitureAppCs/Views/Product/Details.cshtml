@@ -1,0 +1,46 @@
+﻿@model MVCFurnitureAppCs.Models.Product
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cat.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cat.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductRate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductRate)
+        </dd>
+
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

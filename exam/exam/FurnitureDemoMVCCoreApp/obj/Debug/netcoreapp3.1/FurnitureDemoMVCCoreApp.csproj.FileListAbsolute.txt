@@ -1,0 +1,314 @@
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\appsettings.json
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.exe
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.deps.json
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.runtimeconfig.json
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.runtimeconfig.dev.json
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.pdb
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.Views.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.Views.pdb
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.csproj.AssemblyReference.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.AssemblyInfoInputs.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.AssemblyInfo.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.csproj.CoreCompileInputs.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.MvcApplicationPartsAssemblyInfo.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorAssemblyInfo.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorAssemblyInfo.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDemoMVCCoreApp.StaticWebAssets.Manifest.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDemoMVCCoreApp.StaticWebAssets.xml
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\FurnitureDemoMVCCoreApp.styles.css
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.TagHelpers.input.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.TagHelpers.output.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorCoreGenerate.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorTargetAssemblyInfo.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorTargetAssemblyInfo.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.Views.pdb
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.csproj.CopyComplete
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.dll
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.pdb
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.genruntimeconfig.cache
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+B:\ICT2_1\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.StaticWebAssets.xml
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.exe
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.deps.json
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.runtimeconfig.json
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.runtimeconfig.dev.json
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.pdb
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.Views.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.Views.pdb
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.csproj.AssemblyReference.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.AssemblyInfoInputs.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.AssemblyInfo.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.csproj.CoreCompileInputs.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorAssemblyInfo.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorAssemblyInfo.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDemoMVCCoreApp.StaticWebAssets.Manifest.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDemoMVCCoreApp.StaticWebAssets.Pack.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FurnitureDemoMVCCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FurnitureDemoMVCCoreApp.props
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FurnitureDemoMVCCoreApp.props
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FurnitureDemoMVCCoreApp.props
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.TagHelpers.input.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.TagHelpers.output.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorCoreGenerate.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorTargetAssemblyInfo.cache
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.RazorTargetAssemblyInfo.cs
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.Views.pdb
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.csproj.CopyComplete
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.dll
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.pdb
+D:\.NET projects\FurnitureDemoMVCCoreApp\obj\Debug\netcoreapp3.1\FurnitureDemoMVCCoreApp.genruntimeconfig.cache

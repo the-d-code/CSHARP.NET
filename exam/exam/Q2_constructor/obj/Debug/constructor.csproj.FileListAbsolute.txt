@@ -1,0 +1,8 @@
+D:\.NET projects\Q2_constructor\bin\Debug\Q2_constructor.exe.config
+D:\.NET projects\Q2_constructor\bin\Debug\Q2_constructor.exe
+D:\.NET projects\Q2_constructor\bin\Debug\Q2_constructor.pdb
+D:\.NET projects\Q2_constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+D:\.NET projects\Q2_constructor\obj\Debug\constructor.csproj.SuggestedBindingRedirects.cache
+D:\.NET projects\Q2_constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+D:\.NET projects\Q2_constructor\obj\Debug\Q2_constructor.exe
+D:\.NET projects\Q2_constructor\obj\Debug\Q2_constructor.pdb

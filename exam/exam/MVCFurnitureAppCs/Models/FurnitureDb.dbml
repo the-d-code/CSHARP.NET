@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="FurnitureDb" Class="FurnitureDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\FurnitureDb.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="FurnitureDbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Cat" Member="Cats">
+    <Type Name="Cat">
+      <Column Name="CategoryId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CategoryName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Cat_Product" Member="Products" ThisKey="CategoryId" OtherKey="CategoryId" Type="Product" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product" Member="Products">
+    <Type Name="Product">
+      <Column Name="ProductId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProductName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ProductDescription" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ProductRate" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CategoryId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Cat_Product" Member="Cat" ThisKey="CategoryId" OtherKey="CategoryId" Type="Cat" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
