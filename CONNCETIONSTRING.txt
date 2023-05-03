@@ -1,0 +1,13 @@
+Data Source=D;Initial Catalog=FurnitureDB;Integrated Security=True
+
+Scaffold-DbContext "Connection String;Trusted_Connection=True;"
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+,
+"ConnectionStrings":{
+  "DBConnectionString": "Connection String;"
+ }
+ 
+ ------------------------
+ 
+ Scaffold-DbContext "Data Source=D;Initial Catalog=TRAVELLERSDB;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

@@ -1,0 +1,15 @@
+I:\VS\csharpconappcs\bin\Debug\net6.0\csharpconappcs.exe
+I:\VS\csharpconappcs\bin\Debug\net6.0\csharpconappcs.deps.json
+I:\VS\csharpconappcs\bin\Debug\net6.0\csharpconappcs.runtimeconfig.json
+I:\VS\csharpconappcs\bin\Debug\net6.0\csharpconappcs.dll
+I:\VS\csharpconappcs\bin\Debug\net6.0\csharpconappcs.pdb
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.csproj.AssemblyReference.cache
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.GeneratedMSBuildEditorConfig.editorconfig
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.AssemblyInfoInputs.cache
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.AssemblyInfo.cs
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.csproj.CoreCompileInputs.cache
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.dll
+I:\VS\csharpconappcs\obj\Debug\net6.0\refint\csharpconappcs.dll
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.pdb
+I:\VS\csharpconappcs\obj\Debug\net6.0\csharpconappcs.genruntimeconfig.cache
+I:\VS\csharpconappcs\obj\Debug\net6.0\ref\csharpconappcs.dll
