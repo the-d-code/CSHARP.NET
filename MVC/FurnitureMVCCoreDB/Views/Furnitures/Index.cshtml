@@ -1,0 +1,58 @@
+﻿@model IEnumerable<FurnitureMVCCoreDB.Models.Furniture>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<p>
+    <a href="https://localhost:44357/">Back To Main Index</a>
+</p>
+<br />
+
+<p>
+    <a asp-action="Create">1.Create New</a> ||  <a asp-action="SearchByName">2.Search By Name</a> ||  <a asp-action="SearchByRateRange">2.Search By Rate Range</a> 
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FurnitureName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FurnitureName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FurnitureId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.FurnitureId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.FurnitureId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

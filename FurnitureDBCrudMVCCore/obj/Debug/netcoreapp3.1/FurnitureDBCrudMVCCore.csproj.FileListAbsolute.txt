@@ -1,0 +1,322 @@
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.exe
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.deps.json
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.runtimeconfig.json
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.runtimeconfig.dev.json
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.pdb
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.Views.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.Views.pdb
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.csproj.AssemblyReference.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.AssemblyInfoInputs.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.AssemblyInfo.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.csproj.CoreCompileInputs.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorAssemblyInfo.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorAssemblyInfo.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDBCrudMVCCore.StaticWebAssets.Manifest.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDBCrudMVCCore.StaticWebAssets.Pack.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FurnitureDBCrudMVCCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FurnitureDBCrudMVCCore.props
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FurnitureDBCrudMVCCore.props
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FurnitureDBCrudMVCCore.props
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.TagHelpers.input.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.TagHelpers.output.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorCoreGenerate.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorTargetAssemblyInfo.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorTargetAssemblyInfo.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.Views.pdb
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.csproj.CopyComplete
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.dll
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.pdb
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.genruntimeconfig.cache
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Create.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Delete.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Details.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Edit.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Index.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\SearchByName.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\SearchByRateRange.cshtml.g.cs
+D:\.NET projects\MVCCore\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\SearchByCategory.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\appsettings.json
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.exe
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.deps.json
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.runtimeconfig.json
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.runtimeconfig.dev.json
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.pdb
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.Views.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.Views.pdb
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\VS\FurnitureDBCrudMVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.csproj.AssemblyReference.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.GeneratedMSBuildEditorConfig.editorconfig
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.AssemblyInfoInputs.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.AssemblyInfo.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.csproj.CoreCompileInputs.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.MvcApplicationPartsAssemblyInfo.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorAssemblyInfo.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorAssemblyInfo.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDBCrudMVCCore.StaticWebAssets.Manifest.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\FurnitureDBCrudMVCCore.StaticWebAssets.Pack.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FurnitureDBCrudMVCCore.Microsoft.AspNetCore.StaticWebAssets.props
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FurnitureDBCrudMVCCore.props
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FurnitureDBCrudMVCCore.props
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FurnitureDBCrudMVCCore.props
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.TagHelpers.input.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.TagHelpers.output.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorCoreGenerate.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Create.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Delete.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Details.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Edit.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\Index.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\SearchByCategory.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\SearchByName.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Furnitures\SearchByRateRange.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorTargetAssemblyInfo.cache
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.RazorTargetAssemblyInfo.cs
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.Views.pdb
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.csproj.CopyComplete
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.dll
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.pdb
+I:\VS\FurnitureDBCrudMVCCore\obj\Debug\netcoreapp3.1\FurnitureDBCrudMVCCore.genruntimeconfig.cache

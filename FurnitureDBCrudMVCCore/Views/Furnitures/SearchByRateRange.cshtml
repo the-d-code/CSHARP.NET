@@ -1,0 +1,39 @@
+﻿@model FurnitureDBCrudMVCCore.Models.Furniture
+
+@{
+    ViewData["Title"] = "SearchByRateRange";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>SearchByRateRange</h1>
+
+<h4>Furniture</h4>
+<hr />
+<div class="row">
+   <div class="col-md-4">
+        <form asp-action="SearchByRateRange">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                Minimum Rate
+                <input type="text" id="minRate" name="minRate" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                Maximum Rate
+                <input type="text" id="maxRate" name="maxRate" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
